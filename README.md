@@ -2,8 +2,8 @@
 
 Thứ hai 2 thư mục FileSaver.js và dompdf, hỗ trợ cho chức năng xuất file dưới dạng pdf và excel, không thể trực tiếp đưa lên đây do năng. Nếu muốn sử dụng bạn có thể lên google tìm và tải về 2 thư mục này, còn không thì nó cũng không ảnh hưởng tới các chức năng khác của hệ thống.
 
-Tài khoản:
-Giám đốc:
+# Tài khoản:
+## Giám đốc:
 Tài khoản: 20113402 Mật Khẩu: password123
 Quản lý kho:
 Tài khoản 1: 20113401 Mật khẩu: password123
